@@ -1,4 +1,4 @@
-# Netflix Movies & TV Shows Analysis & Recommendation System
+# Movies & TV Shows Analysis & Recommendation System
 
 A comprehensive data analysis and machine learning project that explores Netflix's content library and builds a semantic-based recommendation engine using **Sentence Transformers**.
 
